@@ -49,6 +49,6 @@ int main()
 	PrintArray(arrayElements, n);
 
 	getchar();
-    return 0;
+	return 0;
 }
 
