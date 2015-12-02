@@ -52,7 +52,7 @@ int main()
 	printf("Enter element to Search:");
 
 	int arrayelements[] = { 20, 40, 80, 100, 140, 180, 250, 270, 300 };
-	int element = 1300;
+	int element = 250;
 
 	int result = BinarySearch(arrayelements, 9, element);
 
